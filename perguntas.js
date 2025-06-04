@@ -1,7 +1,7 @@
 criaCartao(
     'Felicidades',
-    'O que precisa para ser feliz?',
-    'laça e joga bola!!!'
+    'O que precisa para vc ser feliz?',
+    'Dormir!!!'
 )
 
 criaCartao(
