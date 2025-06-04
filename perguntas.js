@@ -1,23 +1,23 @@
 criaCartao(
     'Felicidades',
-    'O que precisa para vc ser feliz?',
+    'O que precisa para você ser feliz?',
     'Dormir!!!'
 )
 
 criaCartao(
-    'gosta',
-    'O que vc gosta de fazer',
+    'gosta de fazee o que',
+    'O que você gosta de fazer',
     'laça e joga bola'
 )
 
 criaCartao(
     'trabalho',
-    'o que vc gosta de fazer no serviço?',
+    'o que você gosta de fazer no serviço?',
     'dirigir trato'
 )
 
 criaCartao(
-    'o que vc fazer no tempo livre ',
-    'o que vc mais gosta de fazer no tempo livre?',
+    'o que você fazer no tempo livre ',
+    'o que você mais gosta de fazer no tempo livre?',
     'laça no boi'
 )
