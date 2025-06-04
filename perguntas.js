@@ -5,7 +5,7 @@ criaCartao(
 )
 
 criaCartao(
-    'gosta de fazee o que',
+    'gosta de fazer o que',
     'O que você gosta de fazer',
     'laça e joga bola'
 )
