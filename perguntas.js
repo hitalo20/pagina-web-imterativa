@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'trabalho',
     'o que você gosta de fazer no serviço?',
-    'dirigir trato'
+    'dirigir trator'
 )
 
 criaCartao(
